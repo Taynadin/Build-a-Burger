@@ -1,24 +1,12 @@
+
 {
-  "name": "build-a-burger-orm-mvc",
-  "version": "1.0.0",
-  "description": "express app using orm and mvc",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/clsavino/build-a-burger-orm-mvc.git"
-  },
-  "keywords": [
-    "node.js",
-    "express",
-    "mysql",
-    "orm",
-    "mvc",
-    "controllers",
-    "views",
-    "handlebars"
-  ],
+    "name": "build-a-burger",
+    "version": "1.0.0",
+    "description": "express app using orm and mvc",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    }
 }
+    
