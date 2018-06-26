@@ -21,17 +21,4 @@
     "views",
     "handlebars"
   ],
-  "author": "Christi Savino",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/clsavino/build-a-burger-orm-mvc/issues"
-  },
-  "homepage": "https://github.com/clsavino/build-a-burger-orm-mvc#readme",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.10",
-    "mysql": "^2.15.0"
-  }
 }
